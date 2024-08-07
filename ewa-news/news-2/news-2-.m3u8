@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1.240000,
-news-2-0.ts
+https://paulkunitsky.github.io/ewa-drive/ewa-news/news-2/news-2-0.ts
 #EXTINF:1.520000,
-news-2-1.ts
+https://paulkunitsky.github.io/ewa-drive/ewa-news/news-2/news-2-1.ts
 #EXTINF:1.960000,
-news-2-2.ts
+https://paulkunitsky.github.io/ewa-drive/ewa-news/news-2/news-2-2.ts
 #EXTINF:2.240000,
-news-2-3.ts
+https://paulkunitsky.github.io/ewa-drive/ewa-news/news-2/news-2-3.ts
 #EXT-X-ENDLIST
